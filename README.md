@@ -2,7 +2,7 @@
 We tried to come up with an fun and interesting way of fixing errors on Open Street Map (OSM) by adding a gamification layer to a map viewer.
 
 ## How it is build?
-We used [figma](https://www.figma.com/) to build our prototype and implement our concept of gamification. By this we were able to quickly iterate through different ideas and come up with a solution that is easy to understands and motivates to improve publicly available map data. 
+We used [figma](https://www.figma.com/) to build our prototype and implement our concept of gamification. By this we were able to quickly iterate through different ideas and come up with a solution that is easy to understand and motivates users to improve publicly available map data. 
 
 ## What drives the user?
 We try to incentivize the user through rewards like experience points and coins. These can be redeemed for virtual skins and cosmetic items that customize the personal avatar. At the same time this allows the user to express his contribution to the overall map data. With special temporary items which can be earned in quests, we try to incentivize the user further. These time limited quests should encourage users to fix more issues but not punish those who do not have time.
